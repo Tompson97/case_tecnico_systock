@@ -1,0 +1,2 @@
+﻿filial_id;produto_id;descricao;estoque;preco_unitario;preco_compra;preco_venda;idfornecedor
+1;P30;Produto 30 (Teste Trigger);196;52,04;124,87;157,93;
